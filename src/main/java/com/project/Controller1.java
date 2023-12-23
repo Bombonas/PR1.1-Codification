@@ -2,20 +2,16 @@ package com.project;
 
 import java.io.FileInputStream;
 import java.io.ObjectInputStream;
-import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.security.PublicKey;
-import java.util.ResourceBundle;
 
 import javax.crypto.Cipher;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.fxml.Initializable;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
-import javafx.scene.layout.AnchorPane;
 
 public class Controller1 {
 

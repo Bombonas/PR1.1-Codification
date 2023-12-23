@@ -8,7 +8,6 @@ import java.security.SecureRandom;
 import java.security.Security;
 
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
-import org.bouncycastle.openpgp.PGPKeyPair;
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
